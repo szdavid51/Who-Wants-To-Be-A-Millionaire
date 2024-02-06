@@ -1,0 +1,5 @@
+David	0	0
+Ede	10000	30
+Benedek	20000	40
+Norbi	500	20
+Robert	0	0
